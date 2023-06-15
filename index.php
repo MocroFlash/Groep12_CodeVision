@@ -21,6 +21,11 @@
         <a href="#">contact</a>
     </div>
 </div>
+
+<div class="image">
+    <img class="logo" src="img/Logo.png" alt="website_logo">
+</div>
+
 <script src="js/index.js"></script>
 </body>
 </html>
