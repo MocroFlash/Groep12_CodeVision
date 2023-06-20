@@ -3,7 +3,7 @@
 <?php
     include "Boogy/Header.php"
 ?>
-
+<div class="image">
 <img src="MicrosoftTeams-image.png" alt="logo">
 <body>
 <div class="container">
@@ -21,5 +21,6 @@
 
 <script src="js/index.js"></script>
 </body>
+<h2>Vlieg met ons mee!</h2>
 </html>
 
