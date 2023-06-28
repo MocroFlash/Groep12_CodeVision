@@ -1,13 +1,11 @@
-.nav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
+.body-design {
+background-color: rgba(0,123,255,.5)  !important;
+
 }
-.logo {
-    width: 100px;
-    height: 100px;
-    text-align: center;
+
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+
 }
+
+
